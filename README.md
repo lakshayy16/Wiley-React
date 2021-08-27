@@ -11,4 +11,9 @@
 ## Day 2
     1. Event handlers - button
     2. Making a react app - Portfolio 
+    3. Using React-bootstrap 
+        - install Bootstrap
+        - import the specifics inside the container.
+    4. Importing React-router
+           - 
 
