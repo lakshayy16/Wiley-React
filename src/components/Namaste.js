@@ -6,8 +6,15 @@ class Namaste extends Component{
         this.state={msg: 'Guest'}
     }
     
-    changeName (param){
-        this.setState({msg : param});
+    changeName = () =>{
+        this.setState({msg : param}),
+        ()=>console.log('Call back '+this.state.msg)
+    }
+    
+    changeNameTo = param =>{
+        this.setState({
+            msg:param
+        })
     }
 
     render(){
