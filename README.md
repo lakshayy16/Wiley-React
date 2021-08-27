@@ -7,4 +7,8 @@
     4. Creating components using 
       - Functions 
       - Classes by extending React.Component
+      
+## Day 2
+    1. Event handlers - button
+    2. Making a react app - Portfolio 
 
